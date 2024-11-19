@@ -24,4 +24,18 @@ This repository is for the teamwork of group 9
 
 # The coder used the code "tkinter" to create the graphical interface for the calculator. To make the calculator interactive the 
 
+# By removing root.mainloop() it'll completely cancel out everything.
 
+# The button lines act as the buttons on the calculator.
+
+# This line is the function for the mathematical equations the user inputs.
+
+# The lines of code for button_1.grid(row=3, column=0) are what puts the buttons in a certain order.
+
+# def button_equal(): This section of code is where the math starts from adding, multiplying, subtracting, and dividing. An example of what it should look like is this if num_operator == '+':.
+
+# root.title("Simple Calculator") This line of code is the calculator's name.
+
+# def button_clear(): e.delete(0, END) This line is the clear button that completely erases whatever function you input into the calculator. 
+# 
+    
