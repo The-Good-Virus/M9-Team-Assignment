@@ -37,5 +37,6 @@ This repository is for the teamwork of group 9
 # root.title("Simple Calculator") This line of code is the calculator's name.
 
 # def button_clear(): e.delete(0, END) This line is the clear button that completely erases whatever function you input into the calculator. 
-# 
+
+# By removing this line button_subtract.grid(row=6, column=0), it'll remove a button from the calculator, which, in this case, removes the subtraction button.
     
