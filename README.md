@@ -42,3 +42,13 @@ This repository is for the teamwork of group 9
     
 # Without the following code being "root.mainloop()" the code refuses to activate stating an error.
   - The MainLoop allows the code to continue calculating answers despite the response being rest.
+
+# Removing the Button function doesn't stop the code from the activating. However you are a few buttons short and can't place
+# In the missing numbers or symbols just leaving the spaces with empty slots.
+- The buttons for the code allow the user to type in their problems for addition, subtraction, multiplication, and divison.
+- You are even able to press enter to see the answer you were looking for.
+
+# In conclusion some parts of the code despite being removed can alter the codes results that will show in the calculator's
+# functionality. However despite these changes the code is still able to opperate with specific changes being done from the answer
+# being incorrect or the question needing to be agjusted from missing functions. That or an error message will appear saying
+# the code is missing a character, variable, function, or state something is incorrect in one of the lines.
