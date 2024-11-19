@@ -40,3 +40,5 @@ This repository is for the teamwork of group 9
 
 # By removing this line button_subtract.grid(row=6, column=0), it'll remove a button from the calculator, which, in this case, removes the subtraction button.
     
+# Without the following code being "root.mainloop()" the code refuses to activate stating an error.
+  - The MainLoop allows the code to continue calculating answers despite the response being rest.
