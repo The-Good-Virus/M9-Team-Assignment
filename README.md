@@ -22,7 +22,7 @@ This repository is for the teamwork of group 9
 
 # The coder stated in the code that they didn't use the Lamba function but despite that the code still runs like a regular calculator
 
-# The coder used the code "tkinter" to create the graphical interface for the calculator. To make the calculator interactive the 
+# The coder used the code "tkinter" to create the graphical interface for the calculator. To make the calculator interactive the buttons and command functions allow the user to punch in the numbers and symbols seen on the calculator
 
 # By removing root.mainloop() it'll completely cancel out everything.
 
