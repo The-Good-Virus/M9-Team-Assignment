@@ -18,7 +18,7 @@ This repository is for the teamwork of group 9
 
 # The following program has proven to be functional and reveals to be a calculator that appears on the left side of the screen
 
-# The user is able to type in any simple or complexed mathmatical question into the calculator and it will show the correct answer
+# The user is able to type in any simple or complexed mathematical question into the calculator and it will show the correct answer
 
 # The coder stated in the code that they didn't use the Lamba function but despite that the code still runs like a regular calculator
 
